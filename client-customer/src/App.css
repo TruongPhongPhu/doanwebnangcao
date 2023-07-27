@@ -182,7 +182,7 @@ tr:not(:first-child):hover.datatable {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url("doanwebnangcao/screen_customer/bg_login.png");
+  background-image: url("screen_customer/bg_login.png");
   background-size: cover;
   background-position: center;
   
@@ -223,7 +223,7 @@ tr:not(:first-child):hover.datatable {
 
 /* Tabmenu-customer */
 .tabmenu-customer {
-  background-image: url("doanwebnangcao/screen_customer/thanh_cong_cu.jpg");
+  background-image: url("screen_customer/thanh_cong_cu.jpg");
   height: 52px; 
   border-radius: 5px;
   margin: 5px;
@@ -338,7 +338,7 @@ color: white;
 /* Kéo sang trái */
 
 .inform-customer {
-  background-image: url("doanwebnangcao/screen_customer/logo_brand.png"); 
+  background-image: url("screen_customer/logo_brand.png"); 
   background-size: 100px;
   width: 96%;
   height: 80px;
@@ -411,7 +411,7 @@ color: white;
 }
 /* active bg */
 .active-bg {
-  background-image: url("doanwebnangcao/screen_customer/active_bg.png");
+  background-image: url("screen_customer/active_bg.png");
   padding: 90px;
   width:300px;
   background-size: 600px;
@@ -627,7 +627,7 @@ color: white;
 
 /*MyProfile update*/
 .my-prof {
-  background-image: url("doanwebnangcao/screen_customer/my_profile.png");
+  background-image: url("screen_customer/my_profile.png");
   padding: 100px;
 }
 
