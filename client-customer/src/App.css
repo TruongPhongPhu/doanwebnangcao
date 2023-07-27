@@ -182,7 +182,7 @@ tr:not(:first-child):hover.datatable {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url("screen_customer/bg_login.png");
+  background-image: url("doanwebnangcao/screen_customer/bg_login.png");
   background-size: cover;
   background-position: center;
   
