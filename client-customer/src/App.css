@@ -182,7 +182,7 @@ tr:not(:first-child):hover.datatable {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url("https://github.com/TruongPhongPhu/doanwebnangcao/blob/main/screen_customer/bg_login.png?raw=true");
+  background-image: url(https://scontent.fsgn5-6.fna.fbcdn.net/v/t39.30808-6/363801474_3588411884776758_1690706562894214138_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=21WYj8hs6c0AX-Lztm-&_nc_ht=scontent.fsgn5-6.fna&oh=00_AfByVxjamezo5UotFOEjl0WGthZp9fG14XkZEXy0MbTcOQ&oe=64C7091C);
   background-size: cover;
   background-position: center;
   
@@ -216,14 +216,14 @@ tr:not(:first-child):hover.datatable {
 }
 /* Sign-up customer*/
 .bg-sign-up {
-  background-image: url("https://github.com/TruongPhongPhu/doanwebnangcao/blob/main/screen_customer/Mickey_Mouse.png?raw=true");
+  background-image: url(https://o.remove.bg/downloads/0b8a8d4d-5344-4a2f-b317-b4909dceed79/Mickey_Mouse-removebg-preview.png);
   background-size: cover;
   padding-right: 200px;
 }
 
 /* Tabmenu-customer */
 .tabmenu-customer {
-  background-image: url("https://github.com/TruongPhongPhu/doanwebnangcao/blob/main/screen_customer/thanh_cong_cu.jpg?raw=true");
+  background-image: url(https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/363289545_3588412034776743_2669173952192237867_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=sFi4UNHOEAMAX9_SQG4&_nc_ht=scontent.fsgn5-10.fna&oh=00_AfC6DANhUVp3qZ9IguciGjkF697KkrKwvkLgRmqnVtlpcw&oe=64C63916);
   height: 52px; 
   border-radius: 5px;
   margin: 5px;
@@ -338,7 +338,7 @@ color: white;
 /* Kéo sang trái */
 
 .inform-customer {
-  background-image: url("https://github.com/TruongPhongPhu/doanwebnangcao/blob/main/screen_customer/logo_brand.png?raw=true"); 
+  background-image: url(https://scontent.fsgn5-2.fna.fbcdn.net/v/t39.30808-6/363798285_3588411814776765_5736412606902417554_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=PEQMmDhg-zgAX-3zRgd&_nc_ht=scontent.fsgn5-2.fna&oh=00_AfA7yIFsXA1_vnt1AvHfz3kEGknwS4Ic_Ul2ZQPlJULLVw&oe=64C6AB3B); 
   background-size: 100px;
   width: 96%;
   height: 80px;
@@ -411,7 +411,7 @@ color: white;
 }
 /* active bg */
 .active-bg {
-  background-image: url("https://github.com/TruongPhongPhu/doanwebnangcao/blob/main/screen_customer/active_bg.png?raw=true");
+  background-image: url(https://o.remove.bg/downloads/8c7895a9-5832-4a43-9d9d-086f9eaabd3a/active_bg-removebg-preview.png);
   padding: 90px;
   width:300px;
   background-size: 600px;
@@ -627,7 +627,8 @@ color: white;
 
 /*MyProfile update*/
 .my-prof {
-  background-image: url("https://github.com/TruongPhongPhu/doanwebnangcao/blob/main/screen_customer/my_profile.png?raw=true");
+  background-image: url(https://o.remove.bg/downloads/6f7bad39-e5c0-4299-8147-f9e9e9c0dff8/my_profile-removebg-preview.png);
   padding: 100px;
 }
+
 
