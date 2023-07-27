@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.3em;
+  width: 100%;
+  height: 100vh;
+  background-image: url(https://img.freepik.com/free-photo/fathers-day-concept-with-fashion-copyspace_23-2147812031.jpg?w=1060&t=st=1690292432~exp=1690293032~hmac=33a1aa000de5b82a86c8ff5114d7be554d02a5df12293920cb53bf984566a9cc);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
